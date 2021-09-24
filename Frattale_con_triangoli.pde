@@ -19,7 +19,7 @@ public void setup() {
   }
 }
 public void draw() {
-  frameRate(1000000000);
+  //frameRate(1000000000);
   //background(255);
   p.iterate(poss);
   p.display();
